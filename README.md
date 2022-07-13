@@ -1,4 +1,5 @@
-# Books Review Responsive app
+# Books Review app
+An application that views books, reviews and categories. Implemented using react and typescript.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Getting Started
