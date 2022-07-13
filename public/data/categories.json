@@ -1,0 +1,58 @@
+{
+	"categories": [
+		{
+			"id": 1,
+			"image": "/images/categories/audio.png",
+			"title": "Audio Books",
+			"description": "Mauris sollicitudin fermentum libero. Phasellus viverra nulla ut metus varius laoreet."
+		},
+		{
+			"id": 2,
+			"image": "/images/categories/business.png",
+			"title": "Business Books",
+			"description": "Aenean vulputate eleifend tellus. Nulla facilisi."
+		},
+		{
+			"id": 3,
+			"image": "/images/categories/children.png",
+			"title": "Children's Books",
+			"description": "Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus."
+		},
+		{
+			"id": 4,
+			"image": "/images/categories/cooking.png",
+			"title": "Cooking",
+			"description": "Mauris sollicitudin fermentum libero. Phasellus viverra nulla ut metus varius laoreet."
+		},
+		{
+			"id": 5,
+			"image": "/images/categories/lifestyles.png",
+			"title": "Lifestyles",
+			"description": "Aenean vulputate eleifend tellus. Nulla facilisi."
+		},
+		{
+			"id": 6,
+			"image": "/images/categories/mystery.png",
+			"title": "Mystery",
+			"description": "Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus."
+		},
+		{
+			"id": 7,
+			"image": "/images/categories/romance.png",
+			"title": "Romance",
+			"description": "Mauris sollicitudin fermentum libero. Phasellus viverra nulla ut metus varius laoreet."
+		},
+		{
+			"id": 8,
+			"image": "/images/categories/science.png",
+			"title": "Science Fiction",
+			"description": "Aenean vulputate eleifend tellus. Nulla facilisi."
+		},
+		{
+			"id": 9,
+			"image": "/images/categories/category3.png",
+			"title": "Maecenas",
+			"description": "Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus."
+		}
+	]
+}

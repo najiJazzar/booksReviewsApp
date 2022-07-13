@@ -1,0 +1,30 @@
+
+{
+    "navigation": ["home", "books", "reviews", "news", "contacts"],
+    "categories": [
+        "art",
+        "biography",
+        "business",
+        "chick lit",
+        "children's",
+        "christian",
+        "classics",
+        "comics",
+        "contemporary",
+        "cookbooks",
+        "crime",
+        "ebooks",
+        "fantasy",
+        "fiction",
+        "gay and lesbian",
+        "graphic novels",
+        "historical fiction",
+        "history",
+        "horror",
+        "humor and comedy",
+        "manga",
+        "memoir",
+        "music"
+      ],
+      "follow us": ["facebook", "twitter", "RSS"]
+}
